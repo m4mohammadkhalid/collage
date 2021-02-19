@@ -1,32 +1,4 @@
-/*=========================================================
-Author       : Bestwebcreator.
-Template Name: Eduglobal - Education & Courses HTML Template
-Version      : 1.2
-==============================================================*/
 
-/*=============================================================
-    CSS INDEX
-    =============================
-    01. GENERAL STYLE (body, link color, section-title, overlay, section-padding etc)
-    02. HEADER DESIGN
-	03. BANNER SECTION
-	04. ICON BOX SECTION
-	05. COURSE CATEGORIES SECTION
-	06. TEAM SECTION
-	07. TESTIMONIAL SECTION
-	08. BLOG SECTION
-	09. SUBSCRIBE FORM
-	10. FOOTER
-	11. CONTACT
-	12. 404 SECTION
-	13. GALLERY SECTION
-	14. ELEMENT DESIGN
-	15.START PARALLAX SHAPE DESIGN
-=============================================================*/
-
-/*===================================*
-  01. GENERAL STYLE
-*===================================*/
 body {
 	background: #ffffff none repeat scroll 0 0;
     color: #888888;
@@ -79,7 +51,7 @@ textarea:focus {
 	box-shadow:  none !important;
 }
 section {
-	padding: 100px 0;
+	padding: 20px 0;
 	position:relative;
 	width: 100%;
 }

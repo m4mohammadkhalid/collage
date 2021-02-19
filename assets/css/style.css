@@ -1784,7 +1784,7 @@ marquee {
   03. BANNER SECTION
 *===================================*/
 .full_screen,.full_screen .carousel-item {
-	min-height: 100vh;
+	min-height: 70vh;
 }
 .banner_content_wrap .carousel-item {
 	padding: 100px 0;
